@@ -24,3 +24,9 @@ than product-specific vulnerabilities.
 ## Contact
 
 Issues and discussion are welcome via this repository.
+
+---
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to share and adapt with attribution to Celeste Yoon.
