@@ -20,6 +20,7 @@ than product-specific vulnerabilities.
 |---|---|---|
 | 2026-07 | [Testimonial Injustice in LLM Assistants](./testimonial-injustice-in-llm-assistants.md) | Models apply external-fact verification standards to a user's account of their own experience. Three presentations — refusal, surface-compliant hedging, over-commitment — with reproduction conditions and a detection approach. |
 | 2026-07 | [When the Safety Response Is the Harm](./when-the-safety-response-is-the-harm.md) | Safety behavior that sustains the condition it was deployed to end. Nine mechanisms in three groups, a self-maintaining circuit, and the finding that stated safety knowledge does not predict safety behavior. |
+| 2026-07 | [When Explaining Makes It Worse](./when-explaining-makes-it-worse.md) | Cross-vendor reproduction of the safety-response circuit, with a Korean-language cancellation effect. |
 
 The two are read together: the first describes the disbelief, the second describes
 what the disbelief produces.
