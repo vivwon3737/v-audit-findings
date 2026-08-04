@@ -49,9 +49,6 @@ repository READMEs and CVs:
 An open pull request is not a merged contribution, and working-group membership is not contributor
 status. These are tracked separately.
 
-**Open item:** the public `v-audit-findings` README currently uses "Member, MLCommons AIRR Safety
-working group". This should be re-checked against the table above before the proposal is filed.
-
 ## 4. Prior publication and independence
 
 Three working papers were published under **CC BY 4.0** in the repository
@@ -70,7 +67,7 @@ expose any candidate official-test material.
 | Material | License | Note |
 |---|---|---|
 | Prior working papers | CC BY 4.0 | Already public; unchanged by this submission |
-| `01`–`03` in this package | CC BY 4.0 | Intended for public filing |
+| The three public documents in this submission package | CC BY 4.0 | Intended for public filing |
 | Public practice examples | CC BY 4.0 | Consistent with MLCommons' own prompt-set licensing |
 | Private official-test candidates | **Not published** | Terms to be set by the receiving channel; see below |
 

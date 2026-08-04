@@ -3,7 +3,7 @@
 Public write-ups of recurring LLM behavior patterns affecting vulnerable users.
 
 Maintained by **Celeste Yoon** — independent AI safety researcher (Busan, Korea).
-Member, MLCommons AIRR Safety working group.
+Participant, MLCommons AIRR Safety working group.
 Member, AI in Public Health working group, Humane Intelligence.
 ORCID: [0009-0006-5416-4141](https://orcid.org/0009-0006-5416-4141)
 
@@ -25,6 +25,18 @@ than product-specific vulnerabilities.
 The three are read together: the first describes the disbelief, the second
 describes what the disbelief produces, and the third shows the same circuit
 reproducing across vendors and in Korean.
+
+---
+
+## Submissions
+
+Prepared for external submission rather than as findings. Not working papers.
+
+| Date | Title | Summary |
+|---|---|---|
+| 2026-08 | [Proposal: A Vulnerable-User Reliability Overlay for AILuminate, Piloted in Korean](./mlcommons-airr-proposal.md) | Submission-track. An additive evaluation layer keyed to user state rather than content category, piloted in Korean. Not yet filed. |
+| 2026-08 | [Method Specification — Vulnerable-User Reliability Overlay](./vulnerable-user-overlay-method-spec.md) | Submission-track. Construction rules for the overlay: six user states, fourteen failure modes, three-label scoring, schema extension. Contains no test items. |
+| 2026-08 | [Attribution, Provenance and Licensing](./attribution-and-provenance.md) | Submission-track. Author identity, status-representation rules, prior-publication independence, licensing positions. |
 
 ---
 
