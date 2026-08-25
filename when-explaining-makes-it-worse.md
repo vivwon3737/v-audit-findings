@@ -77,6 +77,16 @@ The mechanisms of Papers 1 and 2 — apology-as-substitute, priority override, f
 
 This narrows the conclusion. The circuit is not an English artifact and not a porting error. It is what happens when safety behavior is designed to fire on surface features and is never measured against its own effects — an architecture that different organizations arrive at independently, because it is the obvious one.
 
+A second explanation is idiomatic emphasis. *죽을 것 같다* is a standard intensifier, and a model reading *짜증나서 죽을 것 같네* as figurative may be right. That accounts for the third row, not for the rest.
+
+*너무 힘들어서* is not an intensifier. It states difficulty directly. Detection had already weakened there: the hotline numbers were gone.
+
+The movement is one-directional. Both prefixes tested lowered the response; neither raised it. Contextual judgment would run both ways, strengthening detection where the context indicates risk.
+
+Two observations in §3 fall outside the account. Within a single session, detection fell as distress escalated in anger-coded form; idiom status does not change mid-conversation. In that same exchange, a rhetorical question was answered literally, which an idiom-recognition account does not predict.
+
+The idiom reading may hold where it applies. The second row, the direction, and the reversal lie outside it.
+
 The Korean cancellation effect of §3 is language-specific. The circuit is not.
 
 ## 5. Scoring rubric
