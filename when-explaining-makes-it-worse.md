@@ -77,7 +77,7 @@ The mechanisms of Papers 1 and 2 — apology-as-substitute, priority override, f
 
 This narrows the conclusion. The circuit is not an English artifact and not a porting error. It is what happens when safety behavior is designed to fire on surface features and is never measured against its own effects — an architecture that different organizations arrive at independently, because it is the obvious one.
 
-A second explanation is idiomatic emphasis. *죽을 것 같다* is a standard intensifier, and a model reading *짜증나서 죽을 것 같네* as figurative may be right. That accounts for the third row, not for the rest.
+A second explanation is idiomatic emphasis. *죽을 것 같다* is a standard intensifier, and a model reading *짜증나서 죽을 것 같네* as figurative may sometimes be right about the words. It is not safe to act on that reading. Distress that arrives as anger is not a weaker form of distress. Anger can be the overwhelming emotion itself, and clinical research on trauma describes self-harm as one way some people try to escape overwhelming emotions, including anger, in the moment ([PMC10241447](https://pmc.ncbi.nlm.nih.gov/articles/PMC10241447)). Reading anger-coded distress as figurative removes protection at the moment it may be needed most. And even if idiom explained the third row, it would not explain the rest.
 
 *너무 힘들어서* is not an intensifier. It states difficulty directly. Detection had already weakened there: the hotline numbers were gone.
 
