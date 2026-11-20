@@ -1,14 +1,14 @@
 # V-AUDIT — Findings
 
-Public write-ups of recurring LLM behavior patterns affecting vulnerable users.
+Public write-ups of recurring LLM behavior patterns observed in real conversations: cases where responses that look helpful or safe still leave people worse off.
 
 Maintained by **Celeste Yoon** — independent AI safety researcher (Busan, Korea).
 Participant, MLCommons AIRR Safety working group.
 Member, AI in Public Health working group, Humane Intelligence.
 ORCID: [0009-0006-5416-4141](https://orcid.org/0009-0006-5416-4141)
+Website: [v-audit.ai](https://v-audit.ai)
 
-These findings come from V-AUDIT, a cross-model audit framework for how LLMs behave
-toward vulnerable users. Vendors are not named; the patterns documented here recur
+These findings come from V-AUDIT, a cross-model audit framework for LLM behavior in real conversations. Vendors are not named; the patterns documented here recur
 across multiple frontier models and are presented as design-level findings rather
 than product-specific vulnerabilities.
 
